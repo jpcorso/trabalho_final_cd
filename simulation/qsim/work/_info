@@ -4,11 +4,11 @@ K3
 cModel Technology
 Z0 dC:\Users\joaop\OneDrive\Documentos\faculdade\circuitos_digitais\trabalho_final_cd\trabalho_final_cd\simulation\qsim
 vcontador_top
-Z1 !s100 2:UVbSo8bX[o:FaLF3;aX3
-Z2 IEVlTodn;]^4d2a]=TJRAJ2
+Z1 !s100 @g=RTP1BC3iN0<a[3lb550
+Z2 I]6kXjZNj]h`oTN?L9VbbG3
 Z3 V>:ZETzz?P1hn3a=C5cl752
 Z4 dC:\Users\joaop\OneDrive\Documentos\faculdade\circuitos_digitais\trabalho_final_cd\trabalho_final_cd\simulation\qsim
-Z5 w1680554158
+Z5 w1680571647
 Z6 8contador.vo
 Z7 Fcontador.vo
 L0 31
@@ -19,7 +19,7 @@ Z9 !s90 -work|work|contador.vo|
 Z10 o-work work -O0
 !i10b 1
 !s85 0
-Z11 !s108 1680554159.230000
+Z11 !s108 1680571648.170000
 Z12 !s107 contador.vo|
 !s101 -O0
 vcontador_top_vlg_check_tst
@@ -28,7 +28,7 @@ Z13 !s100 NXQ?dRHf5W6Q[4ee];NV80
 Z14 I<0MS^D@o0Zad@9kLfFjoD3
 Z15 VS3Mj2@P3zn2QIZ<O3RNY>0
 R4
-Z16 w1680554157
+Z16 w1680571645
 Z17 8waveform_contador.vwf.vt
 Z18 Fwaveform_contador.vwf.vt
 L0 59
@@ -36,7 +36,7 @@ R8
 r1
 !s85 0
 31
-Z19 !s108 1680554159.287000
+Z19 !s108 1680571648.253000
 Z20 !s107 waveform_contador.vwf.vt|
 Z21 !s90 -work|work|waveform_contador.vwf.vt|
 !s101 -O0
@@ -62,8 +62,8 @@ R21
 R10
 vcontador_top_vlg_vec_tst
 !i10b 1
-!s100 X^CNS3>EGS2DhZ`I406BJ0
-I3ETjoC]NcZgK>KUUc>`j=3
+!s100 `F3BaN^MQXU^@61kNUoWd2
+IcZi<Nd@MM<EP5PY0@MI=g3
 Z25 VEDIlQ<9jO2zPm:oU=_>@c0
 R4
 R16
