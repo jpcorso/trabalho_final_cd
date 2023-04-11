@@ -27,5 +27,5 @@
 # Loading work.contador_top_vlg_check_tst
 # Loading altera_ver.PRIM_GDFF_LOW
 # Simulation passed !
-# ** Note: $finish    : waveform_contador.vwf.vt(302)
+# ** Note: $finish    : Waveform.vwf.vt(329)
 #    Time: 1 us  Iteration: 0  Instance: /contador_top_vlg_vec_tst/tb_out

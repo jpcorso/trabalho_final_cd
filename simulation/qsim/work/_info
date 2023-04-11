@@ -4,11 +4,11 @@ K3
 cModel Technology
 Z0 dC:\Users\joaop\OneDrive\Documentos\faculdade\circuitos_digitais\trabalho_final_cd\trabalho_final_cd\simulation\qsim
 vcontador_top
-Z1 !s100 @g=RTP1BC3iN0<a[3lb550
-Z2 I]6kXjZNj]h`oTN?L9VbbG3
-Z3 V>:ZETzz?P1hn3a=C5cl752
-Z4 dC:\Users\joaop\OneDrive\Documentos\faculdade\circuitos_digitais\trabalho_final_cd\trabalho_final_cd\simulation\qsim
-Z5 w1680571647
+Z1 !s100 6JN>BJ2I@??2m3bMA=_g[0
+Z2 IRM>kC5G`3oJgVkE8KOM9g3
+Z3 V<jT9]ahN[<z6>aj[VG1FG3
+Z4 dC:\Users\joaop\OneDrive\Documentos\faculdade\circuitos_digitais\trabalho_final_cd\trabalho_final_cd\v2_cd\simulation\qsim
+Z5 w1681187649
 Z6 8contador.vo
 Z7 Fcontador.vo
 L0 31
@@ -19,32 +19,32 @@ Z9 !s90 -work|work|contador.vo|
 Z10 o-work work -O0
 !i10b 1
 !s85 0
-Z11 !s108 1680571648.170000
+Z11 !s108 1681187650.489000
 Z12 !s107 contador.vo|
 !s101 -O0
 vcontador_top_vlg_check_tst
 !i10b 1
-Z13 !s100 NXQ?dRHf5W6Q[4ee];NV80
-Z14 I<0MS^D@o0Zad@9kLfFjoD3
-Z15 VS3Mj2@P3zn2QIZ<O3RNY>0
+Z13 !s100 7S6OE?i3G=j_zE^aYe0Qa1
+Z14 IB7k6bUBNRHcQO:BWeQmFU0
+Z15 VF7<Qa0U6D26QK@4P>>85G3
 R4
-Z16 w1680571645
-Z17 8waveform_contador.vwf.vt
-Z18 Fwaveform_contador.vwf.vt
+Z16 w1681187648
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
 L0 59
 R8
 r1
 !s85 0
 31
-Z19 !s108 1680571648.253000
-Z20 !s107 waveform_contador.vwf.vt|
-Z21 !s90 -work|work|waveform_contador.vwf.vt|
+Z19 !s108 1681187650.551000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
 !s101 -O0
 R10
 vcontador_top_vlg_sample_tst
 !i10b 1
-Z22 !s100 9KdkN^5ZkcPf`g7ifBNeY1
-Z23 Ikgjl`ekIOdTAIe0g?liE52
+Z22 !s100 2NYiLaZ>;L6cNA8Haan=A0
+Z23 IL0cN9JJ1KZEiY[>;30adQ0
 Z24 VMEk[kcJk1[EU;46J@TMn^3
 R4
 R16
@@ -62,14 +62,14 @@ R21
 R10
 vcontador_top_vlg_vec_tst
 !i10b 1
-!s100 `F3BaN^MQXU^@61kNUoWd2
-IcZi<Nd@MM<EP5PY0@MI=g3
+!s100 _fF5:NKDgce:ZmOBS1gTE3
+I@LMnoB>n1B>k^2OWnRg6N3
 Z25 VEDIlQ<9jO2zPm:oU=_>@c0
 R4
 R16
 R17
 R18
-Z26 L0 306
+Z26 L0 333
 R8
 r1
 !s85 0

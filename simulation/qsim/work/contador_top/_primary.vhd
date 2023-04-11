@@ -5,6 +5,7 @@ entity contador_top is
         Carry           : out    vl_logic;
         D               : in     vl_logic;
         \out\           : out    vl_logic_vector(7 downto 0);
-        C               : in     vl_logic
+        C               : in     vl_logic;
+        LED             : out    vl_logic
     );
 end contador_top;
