@@ -3,67 +3,67 @@ TimeQuest Timing Analyzer Summary
 ------------------------------------------------------------
 
 Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : -1.646
-TNS   : -11.045
+Slack : -1.763
+TNS   : -11.906
 
 Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : -0.354
-TNS   : -0.383
-
-Type  : Slow 1200mV 85C Model Setup 'C'
-Slack : -0.305
-TNS   : -0.338
-
-Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : -0.305
-TNS   : -0.334
-
-Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : -0.303
-TNS   : -0.332
-
-Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
-Slack : -0.302
-TNS   : -0.332
+Slack : -0.348
+TNS   : -0.377
 
 Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst5|24'
 Slack : -0.302
+TNS   : -0.397
+
+Type  : Slow 1200mV 85C Model Setup 'C'
+Slack : -0.302
 TNS   : -0.330
 
+Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
+Slack : -0.300
+TNS   : -0.329
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst|24'
+Slack : -0.299
+TNS   : -0.330
+
+Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
+Slack : -0.299
+TNS   : -0.328
+
 Type  : Slow 1200mV 85C Model Setup 'clock_divisor:inst1|freqdiv:inst3|24'
+Slack : -0.066
+TNS   : -0.066
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst6|24'
+Slack : -0.435
+TNS   : -0.435
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
+Slack : -0.320
+TNS   : -0.320
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst1|24'
+Slack : -0.311
+TNS   : -0.311
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
+Slack : -0.281
+TNS   : -0.281
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst|24'
+Slack : -0.256
+TNS   : -0.256
+
+Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
 Slack : -0.209
 TNS   : -0.209
 
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
-Slack : -0.313
-TNS   : -0.313
-
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
-Slack : -0.270
-TNS   : -0.270
-
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
-Slack : -0.235
-TNS   : -0.235
-
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : -0.230
-TNS   : -0.230
-
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : -0.223
-TNS   : -0.223
-
-Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : -0.148
-TNS   : -0.148
-
 Type  : Slow 1200mV 85C Model Hold 'C'
-Slack : -0.004
-TNS   : -0.004
+Slack : -0.198
+TNS   : -0.198
 
 Type  : Slow 1200mV 85C Model Hold 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : 0.358
+Slack : 0.359
 TNS   : 0.000
 
 Type  : Slow 1200mV 85C Model Minimum Pulse Width 'C'
@@ -99,67 +99,67 @@ Slack : -1.000
 TNS   : -2.000
 
 Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : -1.370
-TNS   : -9.104
+Slack : -1.480
+TNS   : -9.872
 
 Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : -0.204
-TNS   : -0.204
-
-Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : -0.175
-TNS   : -0.175
-
-Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst5|24'
-Slack : -0.173
-TNS   : -0.173
+Slack : -0.199
+TNS   : -0.199
 
 Type  : Slow 1200mV 0C Model Setup 'C'
-Slack : -0.172
-TNS   : -0.172
-
-Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : -0.172
-TNS   : -0.172
-
-Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
 Slack : -0.171
 TNS   : -0.171
 
+Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst5|24'
+Slack : -0.171
+TNS   : -0.171
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
+Slack : -0.168
+TNS   : -0.168
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
+Slack : -0.167
+TNS   : -0.167
+
+Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst|24'
+Slack : -0.167
+TNS   : -0.167
+
 Type  : Slow 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst3|24'
-Slack : -0.084
-TNS   : -0.084
-
-Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
-Slack : -0.225
-TNS   : -0.225
-
-Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
-Slack : -0.203
-TNS   : -0.203
-
-Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
-Slack : -0.173
-TNS   : -0.173
+Slack : 0.039
+TNS   : 0.000
 
 Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : -0.173
-TNS   : -0.173
+Slack : -0.348
+TNS   : -0.348
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
+Slack : -0.246
+TNS   : -0.246
 
 Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : -0.153
-TNS   : -0.153
+Slack : -0.231
+TNS   : -0.231
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
+Slack : -0.209
+TNS   : -0.209
 
 Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : -0.093
-TNS   : -0.093
+Slack : -0.192
+TNS   : -0.192
 
 Type  : Slow 1200mV 0C Model Hold 'C'
-Slack : -0.016
-TNS   : -0.016
+Slack : -0.189
+TNS   : -0.189
+
+Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
+Slack : -0.148
+TNS   : -0.148
 
 Type  : Slow 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : 0.313
+Slack : 0.312
 TNS   : 0.000
 
 Type  : Slow 1200mV 0C Model Minimum Pulse Width 'C'
@@ -195,72 +195,72 @@ Slack : -1.000
 TNS   : -2.000
 
 Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : -0.476
-TNS   : -2.614
-
-Type  : Fast 1200mV 0C Model Setup 'C'
-Slack : 0.062
-TNS   : 0.000
+Slack : -0.539
+TNS   : -3.134
 
 Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : 0.224
+Slack : 0.239
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
-Slack : 0.233
+Type  : Fast 1200mV 0C Model Setup 'C'
+Slack : 0.248
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : 0.245
+Slack : 0.251
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : 0.271
+Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst2|24'
+Slack : 0.264
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst5|24'
 Slack : 0.282
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst3|24'
-Slack : 0.342
+Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst6|24'
+Slack : 0.283
 TNS   : 0.000
 
-Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
-Slack : -0.252
-TNS   : -0.252
-
-Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
-Slack : -0.219
-TNS   : -0.219
+Type  : Fast 1200mV 0C Model Setup 'clock_divisor:inst1|freqdiv:inst3|24'
+Slack : 0.373
+TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst6|24'
-Slack : -0.207
-TNS   : -0.207
+Slack : -0.292
+TNS   : -0.292
 
 Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst1|24'
-Slack : -0.189
-TNS   : -0.189
+Slack : -0.260
+TNS   : -0.260
 
-Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
-Slack : -0.176
-TNS   : -0.176
+Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst3|24'
+Slack : -0.251
+TNS   : -0.251
 
-Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst|24'
-Slack : -0.159
-TNS   : -0.159
+Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst5|24'
+Slack : -0.247
+TNS   : -0.247
 
 Type  : Fast 1200mV 0C Model Hold 'C'
-Slack : -0.041
-TNS   : -0.041
+Slack : -0.208
+TNS   : -0.208
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst2|24'
+Slack : -0.193
+TNS   : -0.193
+
+Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst|24'
+Slack : -0.186
+TNS   : -0.186
 
 Type  : Fast 1200mV 0C Model Hold 'clock_divisor:inst1|freqdiv:inst4|22'
-Slack : 0.186
+Slack : 0.188
 TNS   : 0.000
 
 Type  : Fast 1200mV 0C Model Minimum Pulse Width 'C'
 Slack : -3.000
-TNS   : -7.224
+TNS   : -7.220
 
 Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_divisor:inst1|freqdiv:inst4|22'
 Slack : -1.000
